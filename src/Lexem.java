@@ -1,2 +1,3 @@
-public class Lexem {
+public interface Lexem {
+    String color = "";
 }
